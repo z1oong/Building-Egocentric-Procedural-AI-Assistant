@@ -80,5 +80,20 @@
 |2016|CVPR|[Unsupervised Learning from Narrated Instruction Videos](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.pdf)|-|
 |2014|CVPR|[The Language of Actions: Recovering the Syntax and Semantics of Goal-Directed Human Activities](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)|[Project Page](http://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset)|
 
+## Egocentric procedural question answering
+### Method
+|Year|Venue|Paper Title|Link|
+|:-:|:-:|-|-|
+|2025|CVPR|[EgoLife: Towards Egocentric Life Assistant](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_EgoLife_Towards_Egocentric_Life_Assistant_CVPR_2025_paper.pdf)|[Project Page](https://egolife-ai.github.io/)|
+|2025|ACM|[Vinci: A Real-time Smart Assistant Based on Egocentric Vision-language Model for Portable Devices](https://dl.acm.org/doi/pdf/10.1145/3749513?casa_token=4R5wGrfFEg0AAAAA:-XIdnoXT_uvFvFglxoh__NMgOI9ttVekQj_Vb-rN_oBu-Qg6mfN9cynV4CCsXhi6Jfi_VcrCPOoKRw)|[Project Page](https://github.com/OpenGVLab/vinci)|
+|2025|arXiv|[HCQA-1.5 @ Ego4D EgoSchema Challenge 2025](https://arxiv.org/pdf/2505.20644?)|[Project Page]( https://github.com/Hyu-Zhang/HCQA)|
+|2025|arXiv|[From Pixels to Graphs: using Scene and Knowledge Graphs for HD-EPIC VQA Challenge](https://arxiv.org/pdf/2506.08553?)|-|
+|2025|AAAI|[Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos](https://ojs.aaai.org/index.php/AAAI/article/view/32214)|[Project Page]( https://github.com/alanaai/EVUD)|
+|2025|ICLR|[MM-EGO: TOWARDS BUILDING EGOCENTRIC MULTIMODAL LLMS FOR VIDEO QA](https://arxiv.org/pdf/2410.07177)|-|
+|2025|arXiv|[RAVEN: Query-Guided Representation Alignment for Question Answering over Audio, Video, Embedded Sensors, and Natural Language](https://arxiv.org/pdf/2505.17114)|[Project Page](https://github.com/BASHLab/RAVEN)|
+|2024|CVPR|[Grounded Question-Answering in Long Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Di_Grounded_Question-Answering_in_Long_Egocentric_Videos_CVPR_2024_paper.pdf)|[Project Page](https://github.com/Becomebright/GroundVQA)|
+|2024|arXiv|[HCQA @ Ego4D EgoSchema Challenge 2024](https://arxiv.org/pdf/2406.15771?)|[Project Page](https://github.com/Hyu-Zhang/HCQA)|
+|2024|arXiv|[ALANA VLM: A Multimodal Embodied AI Foundation Model for Egocentric Video Understanding](https://arxiv.org/pdf/2406.13807)|[Project Page]( https://github.com/alanaai/EVUD)|
+|2023|arXiv|[LifelongMemory: Leveraging LLMs for Answering Queries in Long-form Egocentric Videos](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
 
 
