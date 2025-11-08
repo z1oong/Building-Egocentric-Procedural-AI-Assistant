@@ -40,11 +40,13 @@
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
 |2024|WACV|[United We Stand, Divided We Fall: UnityGraph for Unsupervised Procedure Learning from Videos](https://openaccess.thecvf.com/content/WACV2024/papers/Bansal_United_We_Stand_Divided_We_Fall_UnityGraph_for_Unsupervised_Procedure_WACV_2024_paper.pdf) |-|
+|2024|NeurIPS|[OPEL: Optimal Transport Guided ProcedurE Learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/6e4b14e76d0d4f42a9dff031a7a8417b-Paper-Conference.pdf)|-|
 |2019|ICCV|[Unsupervised Procedure Learning via Joint Dynamic Summarization](https://openaccess.thecvf.com/content_ICCV_2019/papers/Elhamifar_Unsupervised_Procedure_Learning_via_Joint_Dynamic_Summarization_ICCV_2019_paper.pdf)|-|
+|2019|CVPR|[Unsupervised learning of action classes with continuous temporal embedding](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kukleva_Unsupervised_Learning_of_Action_Classes_With_Continuous_Temporal_Embedding_CVPR_2019_paper.pdf)|[Project Page](https://github.com/annusha/unsup_temp_embed)|
 |2016|CVPR|[Unsupervised Learning from Narrated Instruction Videos](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.pdf)|-|
 |2015|ICCV|[Unsupervised Semantic Parsing of Video Collections](https://openaccess.thecvf.com/content_iccv_2015/papers/Sener_Unsupervised_Semantic_Parsing_ICCV_2015_paper.pdf)|-|
 
-|2019|CVPR|[Unsupervised learning of action classes with continuous temporal embedding](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kukleva_Unsupervised_Learning_of_Action_Classes_With_Continuous_Temporal_Embedding_CVPR_2019_paper.pdf)|[Project Page](https://github.com/annusha/unsup_temp_embed)|
+
 
 
 
