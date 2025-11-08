@@ -96,4 +96,20 @@
 |2024|arXiv|[ALANA VLM: A Multimodal Embodied AI Foundation Model for Egocentric Video Understanding](https://arxiv.org/pdf/2406.13807)|[Project Page]( https://github.com/alanaai/EVUD)|
 |2023|arXiv|[LifelongMemory: Leveraging LLMs for Answering Queries in Long-form Egocentric Videos](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
 
+### Datasets
+|Year|Venue|Paper Title|Link|
+|:-:|:-:|-|-|
+|2025|CVPR|[Egotextvqa: Towards egocentric scene-text aware video question answering](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
+|2025|arXiv|[EgoBlind: Towards Egocentric Visual Assistance for the Blind People](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
+|2025|CVPR|[Omnia de egotempo: Benchmarking temporal understanding of multi-modal llms in egocentric videos](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
+|2024|arXiv|[Hoi-ref: Hand-object interaction referral in egocentric vision](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
+|2024|arXiv|[ALANA VLM: A Multimodal Embodied AI Foundation Model for Egocentric Video Understanding](https://arxiv.org/pdf/2406.13807)|[Project Page]( https://github.com/alanaai/EVUD)|
+|2024|arXiv|[Video question answering for people with visual impairments using an egocentric 360-degree camera](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
+|2023|NeurIPS|[Egoschema: A diagnostic benchmark for very long-form video language understanding](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
+|2022|ECCV|[Assistq: Affordance-centric question-driven task completion for egocentric assistant](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
+|2018|arXiv|[Embodied question answering](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
+
+
+
+
 
