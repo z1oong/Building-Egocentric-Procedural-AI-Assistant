@@ -2,9 +2,24 @@
 
 ## Taxonomy
 
-### Egocentric procedural error detection
+## Egocentric vision surveys
+|Year|Venue|Paper Title|Link|
+|:-:|:-:|-|-|
+|2025|arXiv|[Challenges and Trends in Egocentric Vision: A Survey](https://arxiv.org/pdf/2503.15275) |-|
+|2025|Elsevier|[Egocentric and Exocentric Methods: A Short Survey](https://arxiv.org/pdf/2410.20621) |-|
+|2024|IJCV|[An Outlook into the Future of Egocentric Vision](https://arxiv.org/pdf/2410.20621) |-|
+|2020|TPAMI|[Analysis of the hands in egocentric vision: A survey](https://arxiv.org/pdf/1912.10867) |-|
+|2020|Elsevier|[Egocentric Vision-based Action Recognition: A survey](https://pdf.sciencedirectassets.com/271597/1-s2.0-S0925231221X00422/1-s2.0-S0925231221017586/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAgaCXVzLWVhc3QtMSJHMEUCIBucUcuZaPn8CMmxvGeH3ov8Wz5W%2BBXKQP%2BLn%2F3ueb74AiEA8vhKKu5ffSKYCN0rv5dXFpWUDATeUnY61RCy%2FYAKCJIqvAUI0f%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDDARy3BOOS88wBpfSyqQBW7VBIcsJvX3AXHdfMS1NkyXedochSm49UqRwdSpbsMV9taGvHvNgGozLCveQnuSH%2FvbColAKpmDDSwK5XwIhjX0H%2FXLvRQzAL%2B6Q0QDWeE6rBksFQkvcvpHdeQxsCEBbq6AOfQNCIeUxdfjUWGYk0J3bvu7mMye4ERryqRuzo9yy5kEjlmNmgRpciTisJTGa2DlVKoEJV17peTc9e86GmKa%2Fqx4SGlSyzd%2Bnd%2F8v%2BK3yeg3%2FMMCK7O2cmOJSJ9AcD5%2Fd0nHC8dNqfCeAQLK8EqqJUm4wcPlznzbXjbLpS65k7A0OXgwIaSKVsjspFryRkrYZaclUrxI8o16RRcB%2FvhYQkiG0M2rXLnlp0lQYRRkNTUyK9DSwwOQnC170L%2FWXUZznbFieiqxMfDlNAz0EjVApl7KV1Jel9%2FbZOrA8HSHkVKFicKsX9x83PE2CwP8Y%2FZ%2FlHhbALPXfoa9Nn3PB7OaqvA4WlR6%2BJbwLaHRMl7MgjTX0eM8INtvWF%2FTdgLgiPXinFrMVeoWgCCw%2BBo93w9a0R%2FCqznFtBjGCemDV05X%2FF4wJhHNdrIHjE26IBaYzHccuZqIQ2EST2GUnrYeRIyAAzFnFfo5BhrTiAzFTO17Tl0wjq%2FnIPRVRTTCq6pEtNRBd21DVVCLrc%2BqxNx8ztRdh22Ghb8DzsYGbRKMZskRgi8cjQweFg0V%2FX50bN6MonaOXtX%2BnPv%2BKwwNUAN5JPh1usYReIHpPzCF9VZv5zU2X5awuvBY1BHj7W0iI25dVPQ%2FxuhDXwcASN1HMggRr6rjX23ZGFm%2Fagx0gwVdZ7IT0VBL%2FVw4JNi%2BRLnPwoUphYAeRTA%2F7MscRoR%2BNmoDzFju5mZRqqo9DRdu4HsqG%2FvZMI3ku8gGOrEBvWl%2BLALTvtLSkEmdkgKg2E1f%2B0qWPfFe0AooyJ5wNzKZfqlQ5cDgLpVeZcVJIux5Fq550CBdKeGl8LwUGHx8i%2BScJlaNTHuPDzVz5cQijxY1hiUcQDIEQ2Te0lVpjIf78yhuX%2BIcDQEFptTN8TSb%2BO1Lba%2BL6AZ5VUUXRlYgNz3Te74G2WARIHOsda7xd6XoEFj3FriV5ATsOcQuUrHpCqXAYP6MfCqvA93mos%2FJ1Wi%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251108T082612Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTNMWRRPT%2F20251108%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8da42e2e006a7d2aa586e62c90c3d2a9fc659265f3499877706d1c19026ebab5&hash=1b29c1a88b7322e376002b3b92c9611ea3f33c7d5cb651ee92acb58dd55dfbf5&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0925231221017586&tid=spdf-e7b3c3bb-a024-4360-856f-c86447562be1&sid=d36d6db986e485479b2b2495214d36574204gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=120e5e56005702065d5155&rr=99b3af2629b88570&cc=hk) |-|
+|2021|ITSC|[A Survey on Deep-Learning Methods for Pedestrian Behavior Prediction from the Egocentric View](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9565041) |-|
+|2021|Elsevier|[Predicting the Future from First Person (Egocentric) Vision: A Survey](https://arxiv.org/pdf/2107.13411) |-|
+|2017|ICWT|[A Survey of Activity Recognition in Egocentric Life-logging datasets](https://www.researchgate.net/profile/Khalid-Elasnaoui-2/publication/317248361_A_survey_of_activity_recognition_in_egocentric_lifelogging_datasets/links/5c225a87299bf12be399fd0e/A-survey-of-activity-recognition-in-egocentric-lifelogging-datasets.pdf) |-|
+|2016|THMS|[Summarization of egocentric videos: A comprehensive survey](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6200&&context=sis_research&&sei-redir=1&referer=https%253A%252F%252Fscholar.google.com%252Fscholar%253Fhl%253Dzh-CN%2526as_sdt%253D0%25252C5%2526q%253DSummarization%252Bof%252Begocentric%252Bvideos%25253A%252BA%252Bcomprehensive%252Bsurvey%2526btnG%253D#search=%22Summarization%20egocentric%20videos%3A%20comprehensive%20survey%22) |-|
+|2016|MDPI|[Recognition of Activities of Daily Living with Egocentric Vision: A Review](https://www.mdpi.com/1424-8220/16/1/72) |-|
+|2015|arXiv|[A Survey on Recent Advances of Computer Vision Algorithms for Egocentric Video](https://arxiv.org/pdf/1501.02825) |-|
 
-#### Method
+## Egocentric procedural error detection
+
+### Method
 
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
@@ -34,9 +49,9 @@
 |2020|TPAMI|[The EPIC-KITCHENS Dataset: Collection, Challenges and Baselines](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9084270)|[Project Page]( http://epic-kitchens.github.io.)|
 |2019|ICCV|[EPIC-Tent: An Egocentric Video Dataset for Camping Tent Assembly](https://openaccess.thecvf.com/content_ICCVW_2019/papers/EPIC/Jang_EPIC-Tent_An_Egocentric_Video_Dataset_for_Camping_Tent_Assembly_ICCVW_2019_paper.pdf)|-|
 
-### Egocentric procedural learning
+## Egocentric procedural learning
 
-#### Method
+### Method
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
 |2024|WACV|[United We Stand, Divided We Fall: UnityGraph for Unsupervised Procedure Learning from Videos](https://openaccess.thecvf.com/content/WACV2024/papers/Bansal_United_We_Stand_Divided_We_Fall_UnityGraph_for_Unsupervised_Procedure_WACV_2024_paper.pdf) |-|
