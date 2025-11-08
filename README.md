@@ -54,12 +54,22 @@
 ### Method
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2025|arXiv|[Procedure Learning via Regularized Gromov-Wasserstein Optimal Transport](https://arxiv.org/pdf/2507.15540)|-|
 |2024|WACV|[United We Stand, Divided We Fall: UnityGraph for Unsupervised Procedure Learning from Videos](https://openaccess.thecvf.com/content/WACV2024/papers/Bansal_United_We_Stand_Divided_We_Fall_UnityGraph_for_Unsupervised_Procedure_WACV_2024_paper.pdf) |-|
 |2024|NeurIPS|[OPEL: Optimal Transport Guided ProcedurE Learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/6e4b14e76d0d4f42a9dff031a7a8417b-Paper-Conference.pdf)|-|
+|2023|ICCV|[STEPs: Self-Supervised Key Step Extraction and Localization from Unlabeled Procedural Videos](https://openaccess.thecvf.com/content/ICCV2023/papers/Shah_STEPs_Self-Supervised_Key_Step_Extraction_and_Localization_from_Unlabeled_Procedural_ICCV_2023_paper.pdf)|[Project Page](https://github.com/anshulbshah/STEPs)| 
+|2022|CVPR|[Learning To Recognize Procedural Activities with Distant Supervision](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Learning_To_Recognize_Procedural_Activities_With_Distant_Supervision_CVPR_2022_paper.pdf)|[Project Page](https://github.com/annusha/unsup_temp_embed)|
+|2022|ECCV|[My View is the Best View: Procedure Learning from Egocentric Videos](https://arxiv.org/pdf/2207.10883)|[Project Page](https://sid2697.github.io/egoprocel/)| 
+|2020|BMVC|[Procedure Completion by Learning from Partial Summaries](https://par.nsf.gov/servlets/purl/10304222)|-|
 |2019|ICCV|[Unsupervised Procedure Learning via Joint Dynamic Summarization](https://openaccess.thecvf.com/content_ICCV_2019/papers/Elhamifar_Unsupervised_Procedure_Learning_via_Joint_Dynamic_Summarization_ICCV_2019_paper.pdf)|-|
 |2019|CVPR|[Unsupervised learning of action classes with continuous temporal embedding](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kukleva_Unsupervised_Learning_of_Action_Classes_With_Continuous_Temporal_Embedding_CVPR_2019_paper.pdf)|[Project Page](https://github.com/annusha/unsup_temp_embed)|
+|2019|CVPR|[Cross-task weakly supervised learning from instructional videos](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhukov_Cross-Task_Weakly_Supervised_Learning_From_Instructional_Videos_CVPR_2019_paper.pdf)|[Project Page](https://github.com/DmZhukov/CrossTask)|
+|2018|AAAI|[Towards Automatic Learning of Procedures From Web Instructional Videos]([https://openaccess.thecvf.com/content_iccv_2015/papers/Sener_Unsupervised_Semantic_Parsing_ICCV_2015_paper.pdf](https://ojs.aaai.org/index.php/AAAI/article/view/12342))|[Project Page](http://youcook2.eecs.umich.edu)|
 |2016|CVPR|[Unsupervised Learning from Narrated Instruction Videos](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.pdf)|-|
 |2015|ICCV|[Unsupervised Semantic Parsing of Video Collections](https://openaccess.thecvf.com/content_iccv_2015/papers/Sener_Unsupervised_Semantic_Parsing_ICCV_2015_paper.pdf)|-|
+
+
+
 
 
 
