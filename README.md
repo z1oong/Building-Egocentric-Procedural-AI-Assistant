@@ -33,7 +33,7 @@
 |2024|ICCV|[EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos referring to Procedural Texts](https://openaccess.thecvf.com/content/ICCV2025W/SAUAFG/papers/Haneji_EgoOops_A_Dataset_for_Mistake_Action_Detection_from_Egocentric_Videos_ICCVW_2025_paper.pdf)|[Project Page](https://y-haneji.github.io/EgoOops-project-page/)|
 |2023|arXiv|[Every Mistake Counts in Assembly](https://arxiv.org/pdf/2307.16453)|-|
 
-#### Datasets
+### Datasets
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
 |2024|NeurIPS|[CaptainCook4D: A Dataset for Understanding Errors in Procedural Activities](https://proceedings.neurips.cc/paper_files/paper/2024/file/f4a04396c2ed1342a5d8d05e94cb6101-Paper-Datasets_and_Benchmarks_Track.pdf)|[Project Page](https://captaincook4d.github.io/captain-cook/)|
@@ -68,10 +68,17 @@
 |2016|CVPR|[Unsupervised Learning from Narrated Instruction Videos](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.pdf)|-|
 |2015|ICCV|[Unsupervised Semantic Parsing of Video Collections](https://openaccess.thecvf.com/content_iccv_2015/papers/Sener_Unsupervised_Semantic_Parsing_ICCV_2015_paper.pdf)|-|
 
-
-
-
-
+### Datasets
+|Year|Venue|Paper Title|Link|
+|:-:|:-:|-|-|
+|2022|ECCV|[My View is the Best View: Procedure Learning from Egocentric Videos](https://arxiv.org/pdf/2207.10883)|[Project Page](https://sid2697.github.io/egoprocel/)| 
+|2019|ICCV|[Unsupervised Procedure Learning via Joint Dynamic Summarization](https://openaccess.thecvf.com/content_ICCV_2019/papers/Elhamifar_Unsupervised_Procedure_Learning_via_Joint_Dynamic_Summarization_ICCV_2019_paper.pdf)|-|
+|2019|CVPR|[Cross-task weakly supervised learning from instructional videos](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhukov_Cross-Task_Weakly_Supervised_Learning_From_Instructional_Videos_CVPR_2019_paper.pdf)|[Project Page](https://github.com/DmZhukov/CrossTask)|
+|2019|ICCV|[HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips](https://openaccess.thecvf.com/content_ICCV_2019/papers/Miech_HowTo100M_Learning_a_Text-Video_Embedding_by_Watching_Hundred_Million_Narrated_ICCV_2019_paper.pdf)|[Project Page](https://www.di.ens.fr/willow/research/howto100m)|
+|2019|CVPR|[COIN: A Large-scale Dataset for Comprehensive Instructional Video Analysis](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_COIN_A_Large-Scale_Dataset_for_Comprehensive_Instructional_Video_Analysis_CVPR_2019_paper.pdf)|[Project Page](https://coin-dataset.github.io/)|
+|2018|AAAI|[Towards Automatic Learning of Procedures From Web Instructional Videos](https://ojs.aaai.org/index.php/AAAI/article/view/12342)|[Project Page](http://youcook2.eecs.umich.edu)|
+|2016|CVPR|[Unsupervised Learning from Narrated Instruction Videos](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.pdf)|-|
+|2014|CVPR|[The Language of Actions: Recovering the Syntax and Semantics of Goal-Directed Human Activities](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)|[Project Page](http://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset)|
 
 
 
