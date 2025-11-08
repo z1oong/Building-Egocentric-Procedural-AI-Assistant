@@ -64,7 +64,7 @@
 |2019|ICCV|[Unsupervised Procedure Learning via Joint Dynamic Summarization](https://openaccess.thecvf.com/content_ICCV_2019/papers/Elhamifar_Unsupervised_Procedure_Learning_via_Joint_Dynamic_Summarization_ICCV_2019_paper.pdf)|-|
 |2019|CVPR|[Unsupervised learning of action classes with continuous temporal embedding](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kukleva_Unsupervised_Learning_of_Action_Classes_With_Continuous_Temporal_Embedding_CVPR_2019_paper.pdf)|[Project Page](https://github.com/annusha/unsup_temp_embed)|
 |2019|CVPR|[Cross-task weakly supervised learning from instructional videos](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhukov_Cross-Task_Weakly_Supervised_Learning_From_Instructional_Videos_CVPR_2019_paper.pdf)|[Project Page](https://github.com/DmZhukov/CrossTask)|
-|2018|AAAI|[Towards Automatic Learning of Procedures From Web Instructional Videos]([https://openaccess.thecvf.com/content_iccv_2015/papers/Sener_Unsupervised_Semantic_Parsing_ICCV_2015_paper.pdf](https://ojs.aaai.org/index.php/AAAI/article/view/12342))|[Project Page](http://youcook2.eecs.umich.edu)|
+|2018|AAAI|[Towards Automatic Learning of Procedures From Web Instructional Videos](https://ojs.aaai.org/index.php/AAAI/article/view/12342)|[Project Page](http://youcook2.eecs.umich.edu)|
 |2016|CVPR|[Unsupervised Learning from Narrated Instruction Videos](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.pdf)|-|
 |2015|ICCV|[Unsupervised Semantic Parsing of Video Collections](https://openaccess.thecvf.com/content_iccv_2015/papers/Sener_Unsupervised_Semantic_Parsing_ICCV_2015_paper.pdf)|-|
 
