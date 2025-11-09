@@ -99,15 +99,15 @@
 ### Datasets
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
-|2025|CVPR|[Egotextvqa: Towards egocentric scene-text aware video question answering](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
-|2025|arXiv|[EgoBlind: Towards Egocentric Visual Assistance for the Blind People](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
-|2025|CVPR|[Omnia de egotempo: Benchmarking temporal understanding of multi-modal llms in egocentric videos](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
-|2024|arXiv|[Hoi-ref: Hand-object interaction referral in egocentric vision](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
+|2025|CVPR|[Egotextvqa: Towards egocentric scene-text aware video question answering](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_EgoTextVQA_Towards_Egocentric_Scene-Text_Aware_Video_Question_Answering_CVPR_2025_paper.pdf)|[Project Page](https://github.com/zhousheng97/EgoTextVQA)|
+|2025|arXiv|[EgoBlind: Towards Egocentric Visual Assistance for the Blind People](https://arxiv.org/pdf/2503.08221?)|[Project Page](https://github.com/doc-doc/EgoBlind)|
+|2025|CVPR|[Omnia de egotempo: Benchmarking temporal understanding of multi-modal llms in egocentric videos](https://openaccess.thecvf.com/content/CVPR2025/papers/Plizzari_Omnia_de_EgoTempo_Benchmarking_Temporal_Understanding_of_Multi-Modal_LLMs_in_CVPR_2025_paper.pdf)|[Project Page](https://github.com/google-research-datasets/egotempo.git)|
+|2024|arXiv|[Hoi-ref: Hand-object interaction referral in egocentric vision](https://arxiv.org/pdf/2404.09933?)|[Project Page](https://sid2697.github.io/hoi-ref)|
 |2024|arXiv|[ALANA VLM: A Multimodal Embodied AI Foundation Model for Egocentric Video Understanding](https://arxiv.org/pdf/2406.13807)|[Project Page]( https://github.com/alanaai/EVUD)|
-|2024|arXiv|[Video question answering for people with visual impairments using an egocentric 360-degree camera](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
-|2023|NeurIPS|[Egoschema: A diagnostic benchmark for very long-form video language understanding](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
-|2022|ECCV|[Assistq: Affordance-centric question-driven task completion for egocentric assistant](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
-|2018|arXiv|[Embodied question answering](https://arxiv.org/pdf/2312.05269)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
+|2024|arXiv|[Video question answering for people with visual impairments using an egocentric 360-degree camera](https://arxiv.org/pdf/2405.19794)|[Project Page](https://agenticlearning.ai/lifelong-memory)|
+|2023|NeurIPS|[Egoschema: A diagnostic benchmark for very long-form video language understanding](https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf)|[Project Page](egoschema.github.io)|
+|2022|ECCV|[Assistq: Affordance-centric question-driven task completion for egocentric assistant](https://arxiv.org/pdf/2203.04203)|[Project Page](https://showlab.github.io/assistq/)|
+|2018|arXiv|[Embodied question answering](https://openaccess.thecvf.com/content_cvpr_2018/papers/Das_Embodied_Question_Answering_CVPR_2018_paper.pdf)|[Project Page](embodiedqa.org)|
 
 
 
