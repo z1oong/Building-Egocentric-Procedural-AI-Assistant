@@ -1,5 +1,7 @@
 # Building-Egocentric-Procedural-AI-Assistant
-
+<p align="center">
+     <a href="">
+<img width="765" alt="image" src="image.png">
 ## Taxonomy
 
 ## Egocentric vision surveys
