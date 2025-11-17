@@ -1,5 +1,6 @@
 
-<h1><img src="image.png" alt="icon" width="48" height="48"> Building-Egocentric-Procedural-AI-Assistant</h1>
+
+<h1 align="center"><img src="image.png" alt="icon" width="48" height="48"> Building-Egocentric-Procedural-AI-Assistant</h1>
 
           
 ## Taxonomy
