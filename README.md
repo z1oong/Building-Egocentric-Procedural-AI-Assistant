@@ -4,6 +4,10 @@
           
 ## Taxonomy
 
+<p align="center">
+<img src="./image/taxonomy.png" width="750">
+</p>
+
 ## Egocentric vision surveys
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
