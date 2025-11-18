@@ -2,6 +2,10 @@
 
 <h1 align="center"><img src="image.png" alt="icon" width="48" height="48"> Building-Egocentric-Procedural-AI-Assistant</h1>
 
+<p align="center">
+    <a href='https://arxiv.org/pdf/2511.13261'>
+      <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
+         </a>
           
 ## Taxonomy
 
