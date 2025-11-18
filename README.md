@@ -8,16 +8,7 @@
 
 ## Our work focuses on Egocentric vision, VLMs, AI agent, Procedural tasks
 
-🤔 Driven by recent advances in vision language models (VLMs) and egocentric perception research, we introduce
-the concept of an egocentric procedural AI assistant (EgoProceAssist) tailored to step-by-step support daily
-procedural tasks in a first-person view. In this work, we start by identifying three core tasks: egocentric procedu-
-ral error detection, egocentric procedural learning, and egocentric procedural question answering. These tasks
-define the essential functions of EgoProceAssist within a new taxonomy. Specifically, our work encompasses a
-comprehensive review of current techniques, relevant datasets, and evaluation metrics across these three core
-areas. To clarify the gap between the proposed EgoProceAssist and existing VLM-based AI assistants, we intro-
-duce novel experiments and provide a comprehensive evaluation of representative VLM-based methods. Based
-on these findings and our technical analysis, we discuss the challenges ahead and suggest future research direc-
-tions.
+🤔 Driven by recent advances in vision language models (VLMs) and egocentric perception research, we introduce the concept of an egocentric procedural AI assistant (EgoProceAssist) tailored to step-by-step support daily procedural tasks in a first-person view. In this work, we start by identifying three core tasks: egocentric procedural error detection, egocentric procedural learning, and egocentric procedural question answering. These tasks define the essential functions of EgoProceAssist within a new taxonomy. Specifically, our work encompasses a comprehensive review of current techniques, relevant datasets, and evaluation metrics across these three core areas. To clarify the gap between the proposed EgoProceAssist and existing VLM-based AI assistants, we introduce novel experiments and provide a comprehensive evaluation of representative VLM-based methods. Based on these findings and our technical analysis, we discuss the challenges ahead and suggest future research directions.
 
 🔥 This is an active repository, you can watch for following the latest advances. If you find it useful, please kindly star this repo.
 
