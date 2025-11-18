@@ -116,7 +116,20 @@
 |2022|ECCV|[Assistq: Affordance-centric question-driven task completion for egocentric assistant](https://arxiv.org/pdf/2203.04203)|[Project Page](https://showlab.github.io/assistq/)|
 |2018|CVPR|[Embodied question answering](https://openaccess.thecvf.com/content_cvpr_2018/papers/Das_Embodied_Question_Answering_CVPR_2018_paper.pdf)|[Project Page](embodiedqa.org)|
 
+## Cite The Paper
+If you find our paper and repository useful for your research project, please consider citing our paper:
 
+```bibtex
+@misc{li2025buildingegocentricproceduralai,
+      title={Building Egocentric Procedural AI Assistant: Methods, Benchmarks, and Challenges}, 
+      author={Junlong Li and Huaiyuan Xu and Sijie Cheng and Kejun Wu and Kim-Hui Yap and Lap-Pui Chau and Yi Wang},
+      year={2025},
+      eprint={2511.13261},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.13261}, 
+}
+```
 
 
 
