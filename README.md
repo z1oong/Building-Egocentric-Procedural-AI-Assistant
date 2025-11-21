@@ -61,6 +61,10 @@
 
 ### Egocentric vision surveys timeline
 
+<p align="center">
+<img src="./image/sur.png" width="750">
+</p>
+
 ## Egocentric procedural error detection
 
 ### Method
