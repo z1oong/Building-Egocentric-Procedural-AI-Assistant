@@ -168,6 +168,12 @@ In this part, we demonstrate the performance of some models and agents in egocen
 <img src="./image/error.png" width="750">
 </p>
 
+### Experiment Results in Egocentric Procedural Learning
+
+<p align="center">
+<img src="./image/learning.png" width="750">
+</p>
+
 ## Cite The Paper
 If you find our paper and repository useful for your research project, please consider citing our paper:
 
