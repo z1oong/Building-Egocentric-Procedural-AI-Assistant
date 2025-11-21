@@ -14,6 +14,24 @@
 
 ### ✨You are welcome to provide us your work with a topic related to it (involving egocentric procedural error detection, egocentric procedural learning and egocentric procedural question answering)!
 
+
+## Summary of Contents
+- [Summary of Contents](#summary-of-contents)
+- [Taxonomy](#Taxonomy)
+- [Paper Structure](#Paper-Structure)
+- [Egocentric vision surveys](#Egocentric-vision-surveys)
+- [Egocentric procedural error detection](#Egocentric-procedural-error-detection)
+  - [Method](#Method)
+  - [Datasets](#Datasets)
+- [Egocentric procedural learning](#Egocentric-procedural-learning)
+  - [Method](#Method)
+  - [Datasets](#Datasets)
+- [Egocentric procedural question answering](#Egocentric-procedural-question-answering)
+  - [Method](#Method)
+  - [Datasets](#Datasets)
+- [Cite The Paper](#Cite-The-Paper)
+
+
 ## Taxonomy
 
 <p align="center">
@@ -40,6 +58,8 @@
 |2016|THMS|[Summarization of egocentric videos: A comprehensive survey](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6200&&context=sis_research&&sei-redir=1&referer=https%253A%252F%252Fscholar.google.com%252Fscholar%253Fhl%253Dzh-CN%2526as_sdt%253D0%25252C5%2526q%253DSummarization%252Bof%252Begocentric%252Bvideos%25253A%252BA%252Bcomprehensive%252Bsurvey%2526btnG%253D#search=%22Summarization%20egocentric%20videos%3A%20comprehensive%20survey%22) |-|
 |2016|MDPI|[Recognition of Activities of Daily Living with Egocentric Vision: A Review](https://www.mdpi.com/1424-8220/16/1/72) |-|
 |2015|arXiv|[A Survey on Recent Advances of Computer Vision Algorithms for Egocentric Video](https://arxiv.org/pdf/1501.02825) |-|
+
+### Egocentric vision surveys timeline
 
 ## Egocentric procedural error detection
 
