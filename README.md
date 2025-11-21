@@ -160,12 +160,21 @@
 
 ## Experiment
 
-In this part, we demonstrate the performance of some models and agents in egocentric procedural error detection and egocentric procedural learning. Specific experimental details can be found in the paper.
+🧪 In this part, we demonstrate the performance of some models and agents in egocentric procedural error detection and egocentric procedural learning. Specific experimental details can be found in the paper.
 
 ### Experiment Results in Egocentric Procedural Error Detection
 
 <p align="center">
 <img src="./image/error.png" width="750">
+</p>
+
+<p align="center">
+<div align="center">
+  <img src="./image/precision1.png" width="350" style="display: inline-block; margin-right: 20px;">
+  <img src="./image/eda.png" width="350" style="display: inline-block;">
+</div>
+<br>
+<em>Left: Precision comparison | Right: EDA comparison</em>
 </p>
 
 ### Experiment Results in Egocentric Procedural Learning
