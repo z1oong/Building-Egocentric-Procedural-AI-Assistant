@@ -14,6 +14,14 @@
 
 ### ✨You are welcome to provide us your work with a topic related to it (involving egocentric procedural error detection, egocentric procedural learning and egocentric procedural question answering)!
 
+<p align="center">
+<div align="center">
+  <img src="./image/precision1.png" width="350" style="display: inline-block; margin-right: 20px;">
+  <img src="./image/eda.png" width="350" style="display: inline-block;">
+</div>
+<br>
+<em>Left: Precision comparison | Right: EDA comparison</em>
+</p>
 
 ## Summary of Contents
 - [Summary of Contents](#summary-of-contents)
@@ -168,14 +176,6 @@
 <img src="./image/error.png" width="750">
 </p>
 
-<p align="center">
-<div align="center">
-  <img src="./image/precision1.png" width="350" style="display: inline-block; margin-right: 20px;">
-  <img src="./image/eda.png" width="350" style="display: inline-block;">
-</div>
-<br>
-<em>Left: Precision comparison | Right: EDA comparison</em>
-</p>
 
 ### Experiment Results in Egocentric Procedural Learning
 
