@@ -112,7 +112,7 @@
 ### Method
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
-|2025|arXiv|[HiERO: understanding the hierarchy of human behavior enhances reasoning on egocentric videos](https://openaccess.thecvf.com/content/ICCV2025/papers/Peirone_HiERO_Understanding_the_Hierarchy_of_Human_Behavior_Enhances_Reasoning_on_ICCV_2025_paper.pdf)|[Project Page](https://sapeirone.github.io/HiERO/)|
+|2025|ICCV|[HiERO: understanding the hierarchy of human behavior enhances reasoning on egocentric videos](https://openaccess.thecvf.com/content/ICCV2025/papers/Peirone_HiERO_Understanding_the_Hierarchy_of_Human_Behavior_Enhances_Reasoning_on_ICCV_2025_paper.pdf)|[Project Page](https://sapeirone.github.io/HiERO/)|
 |2025|arXiv|[Procedure Learning via Regularized Gromov-Wasserstein Optimal Transport](https://arxiv.org/pdf/2507.15540)|-|
 |2024|WACV|[United We Stand, Divided We Fall: UnityGraph for Unsupervised Procedure Learning from Videos](https://openaccess.thecvf.com/content/WACV2024/papers/Bansal_United_We_Stand_Divided_We_Fall_UnityGraph_for_Unsupervised_Procedure_WACV_2024_paper.pdf) |-|
 |2024|NeurIPS|[OPEL: Optimal Transport Guided ProcedurE Learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/6e4b14e76d0d4f42a9dff031a7a8417b-Paper-Conference.pdf)|-|
