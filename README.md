@@ -6,6 +6,11 @@
       <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
          </a>
 
+## 📰 News
+
+- [2025.11] 🔥 Our paper is released on arXiv.
+
+
 ## Our work focuses on Egocentric vision, VLMs, AI agent, Procedural tasks
 
 🤔 Driven by recent advances in vision language models (VLMs) and egocentric perception research, we introduce the concept of an egocentric procedural AI assistant (EgoProceAssist) tailored to step-by-step support daily procedural tasks in a first-person view. In this work, we start by identifying three core tasks: egocentric procedural error detection, egocentric procedural learning, and egocentric procedural question answering. These tasks define the essential functions of EgoProceAssist within a new taxonomy. Specifically, our work encompasses a comprehensive review of current techniques, relevant datasets, and evaluation metrics across these three core areas. To clarify the gap between the proposed EgoProceAssist and existing VLM-based AI assistants, we introduce novel experiments and provide a comprehensive evaluation of representative VLM-based methods. Based on these findings and our technical analysis, we discuss the challenges ahead and suggest future research directions.
@@ -38,6 +43,12 @@
 - [Egocentric procedural question answering](#Egocentric-procedural-question-answering)
   - [Method](#Method)
   - [Datasets](#Datasets)
+- [Real-time and streaming video understanding](#Real-time-and-streaming-video-understanding)
+  - [Method](#Method)
+  - [Datasets](#Datasets)
+- [Proactive interaction in procedural contexts](#Proactive-interaction-in-procedural-contexts)
+  - [Method](#Method)
+  - [Datasets](#Datasets)
 - [Experiment](#Experiment)
 - [Cite The Paper](#Cite-The-Paper)
 
@@ -45,13 +56,13 @@
 ## Taxonomy
 
 <p align="center">
-<img src="./image/taxonomy.png" width="750">
+<img src="./image/major_.png" width="750">
 </p>
 
 ## Paper Structure
 
 <p align="center">
-<img src="./image/stu2.png" width="750">
+<img src="./image/s.png" width="750">
 </p>
 
 ## Egocentric vision surveys
@@ -167,6 +178,47 @@
 |2023|NeurIPS|[Egoschema: A diagnostic benchmark for very long-form video language understanding](https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf)|[Project Page](egoschema.github.io)|
 |2022|ECCV|[Assistq: Affordance-centric question-driven task completion for egocentric assistant](https://arxiv.org/pdf/2203.04203)|[Project Page](https://showlab.github.io/assistq/)|
 |2018|CVPR|[Embodied question answering](https://openaccess.thecvf.com/content_cvpr_2018/papers/Das_Embodied_Question_Answering_CVPR_2018_paper.pdf)|[Project Page](embodiedqa.org)|
+
+## Real-time and streaming video understanding
+
+### Method
+|Year|Venue|Paper Title|Link|
+|:-:|:-:|-|-|
+|2025|CVPR|[Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction](https://openaccess.thecvf.com/content/CVPR2025/papers/Qian_Dispider_Enabling_Video_LLMs_with_Active_Real-Time_Interaction_via_Disentangled_CVPR_2025_paper.pdf)|[Project Page](https://github.com/Mark12Ding/Dispider)|
+|2025|NeurIPS|[StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](https://arxiv.org/pdf/2505.05467)|[Project Page](https://github.com/apple/ml-streambridge)|
+|2025|ICLR|[Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge](https://arxiv.org/pdf/2501.13468)|[Project Page](https://github.com/hmxiong/StreamChat)|
+|2025|NeurIPS|[Streaming Long Video Understanding with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/d7ce06e9293c3d8e6cb3f80b4157f875-Paper-Conference.pdf)|-|
+|2025|EMNLP Findings|[VideoLLM Knows When to Speak: Enhancing Time-Sensitive Video Comprehension with Video-Text Duet Interaction Format](https://aclanthology.org/2025.findings-emnlp.336.pdf)|[Project Page](https://github.com/yellow-binary-tree/mmduet)|
+|2025|ICCV|[Flash-VStream: Efficient Real-Time Understanding for Long Video Streams](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Flash-VStream_Efficient_Real-Time_Understanding_for_Long_Video_Streams_ICCV_2025_paper.pdf)|[Project Page](https://github.com/IVGSZ/Flash-VStream)|
+|2024|NeurIPS|[VideoLLM-MoD: Efficient Video-Language Streaming with Mixture-of-Depths Vision Computation](https://proceedings.neurips.cc/paper_files/paper/2024/file/c6a79e139ec4f371701ea8cc9e06018e-Paper-Conference.pdf)|-|
+|2024|CVPR|[VideoLLM-online: Online Video Large Language Model for Streaming Video](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_VideoLLM-online_Online_Video_Large_Language_Model_for_Streaming_Video_CVPR_2024_paper.pdf)|[Project Page](https://showlab.github.io/videollm-online/)|
+|2024|arXiv|[InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions](https://arxiv.org/pdf/2412.09596)|[Project Page](https://github.com/InternLM/InternLM-XComposer?tab=readme-ov-file)|
+
+### Datasets
+|Year|Venue|Paper Title|Link|
+|:-:|:-:|-|-|
+|2025|CVPR|[OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?](https://openaccess.thecvf.com/content/CVPR2025/papers/Niu_OVO-Bench_How_Far_is_Your_Video-LLMs_from_Real-World_Online_Video_CVPR_2025_paper.pdf)|[Project Page](https://github.com/JoeLeelyf/OVO-Bench)|
+|2025|ICLR|[SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding](https://arxiv.org/pdf/2502.10810)|[Project Page](https://github.com/sotayang/SVBench)|
+|2024|arXiv|[StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video Understanding](https://arxiv.org/pdf/2411.03628)|[Project Page](https://github.com/THUNLP-MT/StreamingBench)|
+
+## Proactive interaction in procedural contexts
+
+### Method
+|Year|Venue|Paper Title|Link|
+|:-:|:-:|-|-|
+|2025|IMWUT|[Socialmind: LLM-based proactive ar social assistive system with human-like perception for in-situ live interactions](https://arxiv.org/pdf/2412.04036)|-|
+|2025|arXiv|[YETI (YET to Intervene) Proactive Interventions by Multimodal AI Agents in Augmented Reality Tasks](https://arxiv.org/pdf/2501.09355)|-|
+|2024|AAAI|[ProAgent: Building Proactive Cooperative Agents with Large Language Models](https://arxiv.org/pdf/2308.11339)|[Project Page](https://github.com/PKU-Alignment/ProAgent)|
+|2025|ICLR|[Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance](https://arxiv.org/pdf/2410.12361)|[Project Page](https://github.com/thunlp/ProactiveAgent)|
+|2025|arXiv|[EgoSocial: Benchmarking Proactive Intervention Ability of Omnimodal LLMs via Egocentric Social Interaction Perception](https://arxiv.org/pdf/2510.13105)|-|
+|2025|EMNLP|[Proactive Assistant Dialogue Generation from Streaming Egocentric Videos](https://aclanthology.org/2025.emnlp-main.605.pdf)|[Project Page](https://pro-assist.github.io)|
+
+### Datasets
+|Year|Venue|Paper Title|Link|
+|:-:|:-:|-|-|
+|2025|arXiv|[ProactiveVideoQA: A Comprehensive Benchmark Evaluating Proactive Interactions in Video Large Language Models](https://arxiv.org/pdf/2507.09313)|[Project Page](https://github.com/yellow-binary-tree/ProactiveVideoQA)|
+|2025|arXiv|[STREAMGAZE: Gaze-Guided Temporal Reasoning and Proactive Understanding in Streaming Videos](https://arxiv.org/pdf/2512.01707)|[Project Page](https://streamgaze.github.io)|
+
 
 ## Experiment
 
