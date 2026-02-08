@@ -175,14 +175,14 @@
 ### Experiment Results in Egocentric Procedural Error Detection
 
 <p align="center">
-<img src="./image/error.png" width="750">
+<img src="./image/error1.png" width="750">
 </p>
 
 
 ### Experiment Results in Egocentric Procedural Learning
 
 <p align="center">
-<img src="./image/learning.png" width="750">
+<img src="./image/learning1.png" width="750">
 </p>
 
 ## Cite The Paper
