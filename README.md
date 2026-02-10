@@ -8,6 +8,7 @@
 
 ## 📰 News
 
+- [2026.02] 🔥 A new version of our paper has been released on arXiv, and the repository has been updated accordingly.
 - [2025.11] 🔥 Our paper is released on arXiv.
 
 
