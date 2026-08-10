@@ -90,9 +90,9 @@
 ## Egocentric procedural error detection
 
 ### Method
-
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2026|CVPR|[Mistake Attribution: Fine-Grained Mistake Understanding in Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Mistake_Attribution_Fine-Grained_Mistake_Understanding_in_Egocentric_Videos_CVPR_2026_paper.pdf) |[Project Page](https://yayuanli.github.io/MATT/)|
 |2025|CVPR|[Modeling Multiple Normal Action Representations for Error Detection in Procedural Tasks](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Modeling_Multiple_Normal_Action_Representations_for_Error_Detection_in_Procedural_CVPR_2025_paper.pdf) |[Project Page](https://github.com/iSEE-Laboratory/AMNAR)|
 |2025|CVPR|[Gazing Into Missteps: Leveraging Eye-Gaze for Unsupervised Mistake Detection in Egocentric Videos of Skilled Human Activities](https://openaccess.thecvf.com/content/CVPR2025/papers/Mazzamuto_Gazing_Into_Missteps_Leveraging_Eye-Gaze_for_Unsupervised_Mistake_Detection_in_CVPR_2025_paper.pdf) |-|
 |2025|arXiv|[Technical Report for Egocentric Mistake Detection for the HoloAssist Challenge](https://arxiv.org/pdf/2506.06174) |[Project Page](https://www.codabench.org/competitions/2613/)|
@@ -106,6 +106,7 @@
 ### Datasets
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2026|CVPR|[Mistake Attribution: Fine-Grained Mistake Understanding in Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Mistake_Attribution_Fine-Grained_Mistake_Understanding_in_Egocentric_Videos_CVPR_2026_paper.pdf) |[Project Page](https://yayuanli.github.io/MATT/)|
 |2024|NeurIPS|[CaptainCook4D: A Dataset for Understanding Errors in Procedural Activities](https://proceedings.neurips.cc/paper_files/paper/2024/file/f4a04396c2ed1342a5d8d05e94cb6101-Paper-Datasets_and_Benchmarks_Track.pdf)|[Project Page](https://captaincook4d.github.io/captain-cook/)|
 |2024|WACV|[ndustreal: A dataset for procedure step recognition handling execution errors in egocentric videos in an industrial-like setting](https://openaccess.thecvf.com/content/WACV2024/papers/Schoonbeek_IndustReal_A_Dataset_for_Procedure_Step_Recognition_Handling_Execution_Errors_WACV_2024_paper.pdf)|[Project Page](https://github.com/TimSchoonbeek/IndustReal)|
 |2024|CVPR|[Error Detection in Egocentric Procedural Task Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.pdf)|[Project Page](https://github.com/robert80203/EgoPER_official)|
